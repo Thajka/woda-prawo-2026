@@ -1,10 +1,12 @@
-# Woda Prawo 2026
+# DEPRECATED: docs/index.md
 
-## Pobierz akty (PDF)
+Plik index.md został zastąpiony przez główny plik `index.html` w katalogu głównym repozytorium.
 
-## OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 15 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków
-[Pobierz PDF Poz. 757](akt-757.pdf)
-## ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 22 maja 2026 r. w sprawie jakości wody przeznaczonej do spożycia przez ludzi
-[Pobierz PDF Poz. 748](akt-748.pdf)
-## USTAWA z dnia 13 marca 2026 r. o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw
-[Pobierz PDF Poz. 605](akt-605.pdf)
+Aby katalog `docs/` zawierał wyłącznie pliki PDF, usuń ręcznie ten plik `docs/index.md` (operacja usunięcia nie jest dostępna przez tego agenta).
+
+Dodano placeholdery PDF:
+- docs/akt-757.pdf
+- docs/akt-748.pdf
+- docs/akt-605.pdf
+
+Jeśli chcesz, mogę spróbować usunąć ten plik jeśli podasz pozwolenie na wykonanie operacji usunięcia przez interfejs, albo mogę przygotować polecenia git, które wykonasz lokalnie.
