@@ -14,4 +14,4 @@ https://thajka.github.io/woda-prawo-2026/
 
 ## Pobierz akt (PDF)
 
-[Pobierz PDF aktu](akt.pdf)
+[Pobierz PDF Poz. 757](akt-757.pdf)
